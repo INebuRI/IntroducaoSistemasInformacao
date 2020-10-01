@@ -1,6 +1,6 @@
 # IntroducaoSistemasInformacao
 
-Este repositorio trata se sobre o inicio do estudo do github
+Who put ur name here, is gay:
 
 Simao
 
